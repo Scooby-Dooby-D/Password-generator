@@ -21,5 +21,3 @@ random.shuffle(password)
 output = "".join(password)
 
 print("= ", output)
-
-print(string.ascii_letters)
