@@ -1,11 +1,8 @@
 import string
 import random
 
-from numpy import outer
 
 character = list(string.ascii_letters + string.digits + "!@#$%^&*()")
-
-
 
 length = int(input("Enter your password length: "))
 
